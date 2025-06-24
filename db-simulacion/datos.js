@@ -1,11 +1,11 @@
 // Inicialización de categorías en localStorage
 categorias = {
-    "101" : { codigo: "101" , nombre: "CONSOLAS" , descrpcion: "Modelos variados<br>de Video Consolas" , imagen: "img/cat101.jpg"},
-    "102" : { codigo: "102" , nombre: "CONTROLES" , descrpcion: "Perifericos de Consolas" , imagen: "img/cat102.jpg"},
-    "103" : { codigo: "103" , nombre: "JUEGOS SWITCH", descrpcion: "Juegos Nintendo Swicht" , imagen: "img/cat103.jpg"},
-    "104" : { codigo: "104" , nombre: "JUEGOS PS5", descripcion: "Gran surtido de video juegos<br>PS5 fisicos y digitales", imagen: "img/cat104.jpg"},
+    "101" : { codigo: "101" , nombre: "CONSOLAS" , descripcion: "Modelos variados de Video Consolas" , imagen: "img/cat101.jpg"},
+    "102" : { codigo: "102" , nombre: "CONTROLES" , descripcion: "Perifericos de Consolas, surtidos de colores" , imagen: "img/cat102.jpg"},
+    "103" : { codigo: "103" , nombre: "JUEGOS SWITCH", descripcion: "Juegos Nintendo Swicht, tendras de donde escoger" , imagen: "img/cat103.jpg"},
+    "104" : { codigo: "104" , nombre: "JUEGOS PS5", descripcion: "Gran surtidos<br>PS5 fisicos y digitales", imagen: "img/cat104.jpg"},
     "105" : { codigo: "105" , nombre: "JUEGOS XBOX" , descripcion: "Tenemos juegos nuevos<br>y clasicos de XBOX" , imagen: "img/cat105.jpg" },
-    "106" : { codigo: "106" , nombre: "CONSOLAS RETRO" , descripcion: "Surtido de consolas clasicas y sus repectivos juegos", imagen: "img/cat106.jpg"},
+    "106" : { codigo: "106" , nombre: "CONSOLAS RETRO" , descripcion: "Clasicas y sus repectivos juegos", imagen: "img/cat106.jpg"},
     "107" : { codigo: "107" , nombre: "PERSONALIZADOS", descripcion: "Productos personalizados camisetas, gorras, vasos y otros", imagen: "img/cat108.jpg"},
    
    
@@ -33,8 +33,8 @@ productos = {
     "1014" : { codigo: "1014" , nombre: "XBOX SERIE S" , descripcion: "Consola Series S 1 TB" , categoria: "101" , imagen: "img/1014.jpg" , precio: 1643000 , calificacion: 4 },
     "1015" : { codigo: "1015" , nombre: "SWITCH 2" , descripcion: "Consola de video juegos de Nintendo" , categoria: "101" , imagen: "img/1015.jpg" , precio: 3000000 , calificacion: 5 },
     "1016" : { codigo: "1016" , nombre: "SWITCH OLED" , descripcion: " Consola Switch Oled Incluye Mario Kart 8" , categoria: "101" , imagen: "img/1016.jpg" , precio: 2390000 , calificacion: 4 },
-    "1017" : { codigo: "1017" , nombre: "CONSOLA GAMER LEGION" , descripcion: "Consola portatil AMD Ryzen 16 gb de ram" , categoria: "101" , imagen: "img/1017.jpg" , precio: 2719900 , calificacion: 5 },
-    "1018" : { codigo: "1018" , nombre: "CONSOLA  " , descripcion: "Consola Nintendo Switch Oled Blanca + Mario Kart 8" , categoria: "101" , imagen: "img/1018.jpg" , precio: 2719900 , calificacion: 5 },
+    "1017" : { codigo: "1017" , nombre: "CONSOLA GAMER LEGION" , descripcion: "Consola portatil AMD Ryzen 16 gb de ram white" , categoria: "101" , imagen: "img/1017.jpg" , precio: 2719900 , calificacion: 5 },
+    "1018" : { codigo: "1018" , nombre: "CONSOLA  " , descripcion: "Consola Switch Oled Blanca + Mario Kart 8" , categoria: "101" , imagen: "img/1018.jpg" , precio: 2719900 , calificacion: 5 },
     "1019" : { codigo: "1019" , nombre: "CONSOLA GAMER LEGION" , descripcion: "Nintendo Switch Oled Neon Con Juego Donkey Kong" , categoria: "101" , imagen: "img/1019.jpg" , precio: 2719900 , calificacion: 5 },
 
 
@@ -52,7 +52,7 @@ productos = {
     "1031" : { codigo: "1031" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Super Mario Party Jamboree " , categoria: "103" , imagen: "img/1031.jpg" , precio: 229900 , calificacion: 5 },
     "1032" : { codigo: "1032" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Luigi's<br>Mansion 3 " , categoria: "103" , imagen: "img/1032.jpg" , precio: 239900 , calificacion: 5 },
     "1033" : { codigo: "1033" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Mario kart 8 deluxe " , categoria: "103" , imagen: "img/1033.jpg" , precio: 209900 , calificacion: 5 },
-    "1034" : { codigo: "1034" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Super Mario Wonder " , categoria: "103" , imagen: "img/1034.jpg" , precio: 229900 , calificacion: 5 },
+    "1034" : { codigo: "1034" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Super Mario Wonder Juego SWITCH " , categoria: "103" , imagen: "img/1034.jpg" , precio: 229900 , calificacion: 5 },
     "1035" : { codigo: "1035" , nombre: "JUEGO DE SWITCH" , descripcion: "The Legend Of Zelda Tears Of The Kingdom" , categoria: "103" , imagen: "img/1035.jpg" , precio: 229900 , calificacion: 5 },
     "1036" : { codigo: "1036" , nombre: "JUEGO DE SWITCH" , descripcion: "Mortal Kombat 11 Nintendo Switch Juego" , categoria: "103" , imagen: "img/1036.jpg" , precio: 229900 , calificacion: 5 },
     "1037" : { codigo: "1037" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Mario & Luigi BrothershipNintendo Switch" , categoria: "103" , imagen: "img/1037.jpg" , precio: 229900 , calificacion: 5 },
@@ -91,10 +91,10 @@ productos = {
     "1066" : { codigo: "1066" , nombre: "Consola Retro" , descripcion: "Consola de Juegos Arcade Box Ad 1900 Clásica" , categoria: "106" , imagen: "img/1066.jpg" , precio: 264900 , calificacion: 4 },
     "1067" : { codigo: "1067" , nombre: "Consola Retro" , descripcion: "Proyector De Video Con Consola De Juegos Y Controles" , categoria: "106" , imagen: "img/1067.jpg" , precio: 399900 , calificacion: 4 },
 
-    "1071" : { codigo: "1071" , nombre: "FUNKO POP" , descripcion: "Funko POP Marvel nos da a conocer personaje Deadpool" , categoria: "107" , imagen: "img/1071.png" , precio: 80000 , calificacion: 4 },
-    "1072" : { codigo: "1072" , nombre: "FUNKO POP" , descripcion: "Batman / Superman Fusion Summer Convention 2024" , categoria: "107" , imagen: "img/1072.jpg" , precio: 80000 , calificacion: 4 },
+    "1071" : { codigo: "1071" , nombre: "FUNKO POP" , descripcion: "Funko POP Marvel nos da a conocer a Deadpool" , categoria: "107" , imagen: "img/1071.png" , precio: 80000 , calificacion: 4 },
+    "1072" : { codigo: "1072" , nombre: "FUNKO POP" , descripcion: "Batman / Superman Fusion Summer Convention" , categoria: "107" , imagen: "img/1072.jpg" , precio: 80000 , calificacion: 4 },
     "1073" : { codigo: "1073" , nombre: "FUNKO POP" , descripcion: "Aang 6″ Avatar: The Last Airbender  1806  Funko Pop!" , categoria: "107" , imagen: "img/1073.jpg" , precio: 80000 , calificacion: 4 },
-    "1074" : { codigo: "1074" , nombre: "FUNKO POP" , descripcion: "Ahsoka con Sable Star Wars: The Mandalorian 464 Funko Pop!" , categoria: "107" , imagen: "img/1074.jpg" , precio: 80000 , calificacion: 4 },
+    "1074" : { codigo: "1074" , nombre: "FUNKO POP" , descripcion: "Ahsoka con Sable Star Wars: The Mandalorian" , categoria: "107" , imagen: "img/1074.jpg" , precio: 80000 , calificacion: 4 },
     "1075" : { codigo: "1075" , nombre: "FUNKO POP" , descripcion: "Alegría  Intensamente 2  1451  Funko Pop!" , categoria: "107" , imagen: "img/1075.jpg" , precio: 85000 , calificacion: 4 },
     "1076" : { codigo: "1076" , nombre: "FUNKO POP" , descripcion: "Alucard  Castlevania Nocturne  1961  Funko Pop!" , categoria: "107" , imagen: "img/1076.jpg" , precio: 85000 , calificacion: 4 },
     "1077" : { codigo: "1077" , nombre: "FUNKO POP" , descripcion: "Annabelle Comes Home 790 Funko Pop!" , categoria: "107" , imagen: "img/1077.jpg" , precio: 80000 , calificacion: 4 },
