@@ -3,8 +3,8 @@ categorias = {
     "101" : { codigo: "101" , nombre: "CONSOLAS" , descripcion: "Modelos variados de Video Consolas" , imagen: "img/cat101.jpg"},
     "102" : { codigo: "102" , nombre: "CONTROLES" , descripcion: "Perifericos de Consolas, surtidos de colores" , imagen: "img/cat102.jpg"},
     "103" : { codigo: "103" , nombre: "JUEGOS SWITCH", descripcion: "Juegos Nintendo Swicht, tendras de donde escoger" , imagen: "img/cat103.jpg"},
-    "104" : { codigo: "104" , nombre: "JUEGOS PS5", descripcion: "Gran surtidos<br>PS5 fisicos y digitales", imagen: "img/cat104.jpg"},
-    "105" : { codigo: "105" , nombre: "JUEGOS XBOX" , descripcion: "Tenemos juegos nuevos<br>y clasicos de XBOX" , imagen: "img/cat105.jpg" },
+    "104" : { codigo: "104" , nombre: "JUEGOS PS5", descripcion: "Gran Variedad de Surtido PS5 fisicos y digitales", imagen: "img/cat104.jpg"},
+    "105" : { codigo: "105" , nombre: "JUEGOS XBOX" , descripcion: "Tenemos juegos nuevos y clasicos de XBOX" , imagen: "img/cat105.jpg" },
     "106" : { codigo: "106" , nombre: "CONSOLAS RETRO" , descripcion: "Clasicas y sus repectivos juegos", imagen: "img/cat106.jpg"},
     "107" : { codigo: "107" , nombre: "PERSONALIZADOS", descripcion: "Productos personalizados camisetas, gorras, vasos y otros", imagen: "img/cat108.jpg"},
    
@@ -28,24 +28,24 @@ localStorage.setItem("banners", JSON.stringify(banners));
 
 productos = {
     "1011" : { codigo: "1011" , nombre: "PS5" , descripcion: "Consola PS5 Slim Estandar + 2 Videojuegos, Incluiye Returnal y Ratchet and Clanck " , categoria: "101" , imagen: "img/1011.jpg" , precio: 2299000 , calificacion: 4 },
-    "1012" : { codigo: "1012" , nombre: "PS5" , descripcion: "Consola Playstation5 1TB Slim PS5+2Controles+Fc25+GtaV+CargadorDobe" , categoria: "101" , imagen: "img/1012.jpg" , precio: 2299000 , calificacion: 5 },
-    "1013" : { codigo: "1013" , nombre: "XBOX SERIE X" , descripcion: "Consola Series X 1 TB Digital" , categoria: "101" , imagen: "img/1013.jpg" , precio: 2659000 , calificacion: 5 },
+    "1012" : { codigo: "1012" , nombre: "PS5" , descripcion: "Consola Playstation5 1TB PS5+2Controles+Fc25+GtaV+CargadorDoble" , categoria: "101" , imagen: "img/1012.jpg" , precio: 2299000 , calificacion: 5 },
+    "1013" : { codigo: "1013" , nombre: "XBOX SERIE X" , descripcion: "Consola Microsoft Xbox Series X Digital 1tb Color Blanco" , categoria: "101" , imagen: "img/1013.jpg" , precio: 2659000 , calificacion: 5 },
     "1014" : { codigo: "1014" , nombre: "XBOX SERIE S" , descripcion: "Consola Series S 1 TB" , categoria: "101" , imagen: "img/1014.jpg" , precio: 1643000 , calificacion: 4 },
     "1015" : { codigo: "1015" , nombre: "SWITCH 2" , descripcion: "Consola de video juegos de Nintendo" , categoria: "101" , imagen: "img/1015.jpg" , precio: 3000000 , calificacion: 5 },
     "1016" : { codigo: "1016" , nombre: "SWITCH OLED" , descripcion: " Consola Switch Oled Incluye Mario Kart 8" , categoria: "101" , imagen: "img/1016.jpg" , precio: 2390000 , calificacion: 4 },
     "1017" : { codigo: "1017" , nombre: "CONSOLA GAMER LEGION" , descripcion: "Consola portatil AMD Ryzen 16 gb de ram white" , categoria: "101" , imagen: "img/1017.jpg" , precio: 2719900 , calificacion: 5 },
     "1018" : { codigo: "1018" , nombre: "CONSOLA  " , descripcion: "Consola Switch Oled Blanca + Mario Kart 8" , categoria: "101" , imagen: "img/1018.jpg" , precio: 2719900 , calificacion: 5 },
-    "1019" : { codigo: "1019" , nombre: "CONSOLA GAMER LEGION" , descripcion: "Nintendo Switch Oled Neon Con Juego Donkey Kong" , categoria: "101" , imagen: "img/1019.jpg" , precio: 2719900 , calificacion: 5 },
+    "1019" : { codigo: "1019" , nombre: "CONSOLA GAMER SWITCH" , descripcion: "Nintendo Switch Oled Neon Con Juego Donkey Kong" , categoria: "101" , imagen: "img/1019.jpg" , precio: 2719900 , calificacion: 5 },
 
 
     "1021" : { codigo: "1021" , nombre: "CONTROL PS5" , descripcion: "Control PS5 Dualsense Star Light Blue Americano" , categoria: "102" , imagen: "img/1021.jpg" , precio: 269000 , calificacion: 5 },
-    "1022" : { codigo: "1022" , nombre: "CONTROL PS5" , descripcion: "Control PS5 Dualsense Edge Hunt<br>Latam" , categoria: "102" , imagen: "img/1022.jpg" , precio: 958000 , calificacion: 5 },
+    "1022" : { codigo: "1022" , nombre: "CONTROL PS5" , descripcion: "Control PS5 Dualsense Edge Hunt Latam" , categoria: "102" , imagen: "img/10222.jpg" , precio: 958000 , calificacion: 5 },
     "1023" : { codigo: "1023" , nombre: "CONTROL XBOX" , descripcion: "Control oystick wireless Original Blue" , categoria: "102" , imagen: "img/1023.jpg" , precio: 2299000 , calificacion: 5 },
     "1024" : { codigo: "1024" , nombre: "CONTROL XBOX" , descripcion: "Control Joystick wireless Original Red" , categoria: "102" , imagen: "img/1024.jpg" , precio: 2299000 , calificacion: 5 },
     "1025" : { codigo: "1025" , nombre: "CONTROL SWITCH" , descripcion: "Control joystick Inalámbrico Edición Monster" , categoria: "102" , imagen: "img/1025.jpg" , precio: 2299000 , calificacion: 5 },
     "1026" : { codigo: "1026" , nombre: "CONTROL SWITCH" , descripcion: "Control joy-con Azul Amarrillo L Y R" , categoria: "102" , imagen: "img/1026.jpg" , precio: 2299000 , calificacion: 5 },
     "1027" : { codigo: "1027" , nombre: "CONTROL SWITCH" , descripcion: "Control inhalambrico versión negro + dorado Dragon" , categoria: "102" , imagen: "img/1027.jpg" , precio: 2299000 , calificacion: 5 },
-    "1028" : { codigo: "1028" , nombre: "CONTROL SWITCH" , descripcion: "Control Wireless<br> Hori Pad<br>Mario" , categoria: "102" , imagen: "img/1028.jpg" , precio: 2299000 , calificacion: 5 },
+    "1028" : { codigo: "1028" , nombre: "CONTROL SWITCH" , descripcion: "Control Wireless<br> Hori Pad Mario" , categoria: "102" , imagen: "img/1028.jpg" , precio: 2299000 , calificacion: 5 },
     "1029" : { codigo: "1029" , nombre: "CONTROL SWITCH" , descripcion: "Control Nintendo Switch Pro Control Edicion Zelda" , categoria: "102" , imagen: "img/1029.jpg" , precio: 2299000 , calificacion: 5 },
 
     
@@ -93,7 +93,7 @@ productos = {
 
     "1071" : { codigo: "1071" , nombre: "FUNKO POP" , descripcion: "Funko POP Marvel nos da a conocer a Deadpool" , categoria: "107" , imagen: "img/1071.png" , precio: 80000 , calificacion: 4 },
     "1072" : { codigo: "1072" , nombre: "FUNKO POP" , descripcion: "Batman / Superman Fusion Summer Convention" , categoria: "107" , imagen: "img/1072.jpg" , precio: 80000 , calificacion: 4 },
-    "1073" : { codigo: "1073" , nombre: "FUNKO POP" , descripcion: "Aang 6″ Avatar: The Last Airbender  1806  Funko Pop!" , categoria: "107" , imagen: "img/1073.jpg" , precio: 80000 , calificacion: 4 },
+    "1073" : { codigo: "1073" , nombre: "FUNKO POP" , descripcion: "Aang 6 Avatar: The Last Airbender  1806  Funko Pop!" , categoria: "107" , imagen: "img/1073.jpg" , precio: 80000 , calificacion: 4 },
     "1074" : { codigo: "1074" , nombre: "FUNKO POP" , descripcion: "Ahsoka con Sable Star Wars: The Mandalorian" , categoria: "107" , imagen: "img/1074.jpg" , precio: 80000 , calificacion: 4 },
     "1075" : { codigo: "1075" , nombre: "FUNKO POP" , descripcion: "Alegría  Intensamente 2  1451  Funko Pop!" , categoria: "107" , imagen: "img/1075.jpg" , precio: 85000 , calificacion: 4 },
     "1076" : { codigo: "1076" , nombre: "FUNKO POP" , descripcion: "Alucard  Castlevania Nocturne  1961  Funko Pop!" , categoria: "107" , imagen: "img/1076.jpg" , precio: 85000 , calificacion: 4 },
