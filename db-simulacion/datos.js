@@ -50,7 +50,7 @@ productos = {
 
     
     "1031" : { codigo: "1031" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Super Mario Party Jamboree " , categoria: "103" , imagen: "img/1031.jpg" , precio: 229900 , calificacion: 5 },
-    "1032" : { codigo: "1032" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Luigi's<br>Mansion 3 " , categoria: "103" , imagen: "img/1032.jpg" , precio: 239900 , calificacion: 5 },
+    "1032" : { codigo: "1032" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Luigi's Mansion 3 " , categoria: "103" , imagen: "img/1032.jpg" , precio: 239900 , calificacion: 5 },
     "1033" : { codigo: "1033" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Mario kart 8 deluxe " , categoria: "103" , imagen: "img/1033.jpg" , precio: 209900 , calificacion: 5 },
     "1034" : { codigo: "1034" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Super Mario Wonder Juego SWITCH " , categoria: "103" , imagen: "img/1034.jpg" , precio: 229900 , calificacion: 5 },
     "1035" : { codigo: "1035" , nombre: "JUEGO DE SWITCH" , descripcion: "The Legend Of Zelda Tears Of The Kingdom" , categoria: "103" , imagen: "img/1035.jpg" , precio: 229900 , calificacion: 5 },
