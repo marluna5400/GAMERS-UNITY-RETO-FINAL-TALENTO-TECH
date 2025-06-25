@@ -41,12 +41,12 @@ productos = {
     "1021" : { codigo: "1021" , nombre: "CONTROL PS5" , descripcion: "Control PS5 Dualsense Star Light Blue Americano" , categoria: "102" , imagen: "img/1021.jpg" , precio: 269000 , calificacion: 5 },
     "1022" : { codigo: "1022" , nombre: "CONTROL PS5" , descripcion: "Control PS5 Dualsense Edge Hunt<br>Latam" , categoria: "102" , imagen: "img/1022.jpg" , precio: 958000 , calificacion: 5 },
     "1023" : { codigo: "1023" , nombre: "CONTROL XBOX" , descripcion: "Control oystick wireless Original Blue" , categoria: "102" , imagen: "img/1023.jpg" , precio: 2299000 , calificacion: 5 },
-    "1024" : { codigo: "1024" , nombre: "CONTROL XBOX" , descripcion: "Control joystick wireless Original Red" , categoria: "102" , imagen: "img/1024.jpg" , precio: 2299000 , calificacion: 5 },
+    "1024" : { codigo: "1024" , nombre: "CONTROL XBOX" , descripcion: "Control Joystick wireless Original Red" , categoria: "102" , imagen: "img/1024.jpg" , precio: 2299000 , calificacion: 5 },
     "1025" : { codigo: "1025" , nombre: "CONTROL SWITCH" , descripcion: "Control joystick Inalámbrico Edición Monster" , categoria: "102" , imagen: "img/1025.jpg" , precio: 2299000 , calificacion: 5 },
     "1026" : { codigo: "1026" , nombre: "CONTROL SWITCH" , descripcion: "Control joy-con Azul Amarrillo L Y R" , categoria: "102" , imagen: "img/1026.jpg" , precio: 2299000 , calificacion: 5 },
     "1027" : { codigo: "1027" , nombre: "CONTROL SWITCH" , descripcion: "Control inhalambrico versión negro + dorado Dragon" , categoria: "102" , imagen: "img/1027.jpg" , precio: 2299000 , calificacion: 5 },
     "1028" : { codigo: "1028" , nombre: "CONTROL SWITCH" , descripcion: "Control Wireless<br> Hori Pad<br>Mario" , categoria: "102" , imagen: "img/1028.jpg" , precio: 2299000 , calificacion: 5 },
-    "1029" : { codigo: "1029" , nombre: "CONTROL SWITCH" , descripcion: "Control Swintc Pro" , categoria: "102" , imagen: "img/1029.jpg" , precio: 2299000 , calificacion: 5 },
+    "1029" : { codigo: "1029" , nombre: "CONTROL SWITCH" , descripcion: "Control Nintendo Switch Pro Control Edicion Zelda" , categoria: "102" , imagen: "img/1029.jpg" , precio: 2299000 , calificacion: 5 },
 
     
     "1031" : { codigo: "1031" , nombre: "JUEGO DE SWITCH" , descripcion: "Juego Super Mario Party Jamboree " , categoria: "103" , imagen: "img/1031.jpg" , precio: 229900 , calificacion: 5 },
